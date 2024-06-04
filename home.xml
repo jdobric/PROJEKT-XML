@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knjige>
+    <knjiga>
+        <slika>slike/don.jpg</slika>
+        <naslov>Don Quijote</naslov>
+        <autor>Miguel de Cervantes</autor>
+        <godina_izdavanja>1615</godina_izdavanja>
+        <opis>Roman punog naziva Bistri vitez don Quijote od Manche objavljen je u dva dijela. Prvi dio izlazi 1605. godine, a drugi dio deset godina kasnije, 1615.
+        Don Quijote je jedan od najvažnijih romana koji su obilježili daljnji razvoj ovog žanra. Nakon srednjovjekovnih pustolovnih romana, Don Quijote prvi u svojem središtu ima dogodovštine jednog jedinog lika koji postaje i protagonist. Često ga zbog toga teoretičari književnosti nazivaju i prvim modernim romanom svjetske književnosti. Bitan je po tome što Cervantes kao protagonista ne stavlja nacionalnog junaka, već složen lik karikiranog viteza koji je u sukobu s okolinom, ima složen karakter i koji propituje razne društvene norme i standarde svoga vremena.</opis>
+        <link>https://hr.wikipedia.org/wiki/Don_Quijote</link>
+    </knjiga>
+    <knjiga>
+    <slika>slike/priča.jpg</slika>
+        <naslov>Priča o dva grada</naslov>
+        <autor>Charles Dickens</autor>
+        <godina_izdavanja>1859</godina_izdavanja>
+        <opis>Priča o dva grada je roman britanskog književnika Charlesa Dickensa originalno objavljen 1859. godine, poznat kao jedno od njegovih najpopularnijih i najuticajnijih djela, odnosno jedna od najpopularnijih i najbolje prodavanih knjiga u historiji.
+
+Originalno je objavljen nastavcima i sastoji se od tri dijela, radnjom smještenih u period prije i na samom početku Francuske revolucije, a protagonisti su bili likovi s obje strane La Mancheaa čije su različite nacionalnosti i društveni status davali izuzetno široku perspektivu tih zbivanja. Dickens je svoj roman velikim dijelom temeljio na popularnoj historijskoj knjizi The French Revolution: A History Thomasa Carylea, ali je inspiracija također pronađena i u suvremenoj Engleskoj, prije svega životu tamošnjih nižih slojeva. </opis>
+<link>https://sh.wikipedia.org/wiki/Pri%C4%8Da_o_dva_grada</link>
+    </knjiga>
+        <knjiga>
+        <slika>slike/gospodar.jpg</slika>
+        <naslov>Gospodar prstenova</naslov>
+        <autor>J.R.R. Tolkien</autor>
+        <godina_izdavanja>1955</godina_izdavanja>
+        <opis>Gospodar prstenova epski je fantastični roman kojeg je napisao engleski akademik i filolog J. R. R. Tolkien. Priča je započeta kao nastavak Tolkienovog ranijeg djela, Hobita, ali se razvila u mnogo veću i kompleksniju priču. Pisana je u fazama između 1937. i 1949. godine, a velik je njezin dio nastao tijekom Drugog svjetskog rata. Iako je planirano objavljivanje romana u jednom svesku, on je objavljen u tri sveska 1954. i 1955. te je i kasnije obično tako bio objavljivan. Od prvog je obljavljivanja tiskan mnogo puta i preveden na velik broj jezika, i postao je jedno on najpopularnijih i najutjecajnijih djela književnosti 20. stoljeća.
+
+Priča Gospodara prstenova odvija se tijekom Trećeg doba Međuzemlja. To područje nastanjuju ljudi i druge humanoidne rase (hobiti, vilenjaci, patuljci i orci) kao i mnoga druga stvarna i fantastična stvorenja. Priča se vrti oko Prstena moći kojeg je stvorio Gospodar tame Sauron i od tihih početaka u Shireu grana se preko Međuzemlja prateći tijek Rata za Prsten kroz oči glavnih likova, a posebice glavnog protagonista Frode Bagginsa.</opis>
+<link>https://hr.wikipedia.org/wiki/Gospodar_prstenova</link>
+
+    </knjiga>
+        <knjiga>
+        <slika>slike/mali.jpg</slika>
+        <naslov>Mali princ</naslov>
+        <autor>Antoine de Saint-Exupery</autor>
+        <godina_izdavanja>1943</godina_izdavanja>
+        <opis>Mali princ (fr. Le Petit Prince) najpoznatija je novela francuskog avijatičara Antoinea de Sainta-Exuperyja iz 1943. godine. Saint-Exupéry napisao ju je dok je živjeo u SAD-u. Prevedena je na preko 180 svjetskih jezika i prodana u više od 80 miliona primjeraka, tako da je to jedna od najprodavanijih knjiga svijeta.
+
+Knjiga je ilustrirana vlastitim piščevim crtežima, njih je koristio da opiše likove. Knjiga je višestruko adaptirana, u raznim oblicima.</opis>
+<link>https://hr.wikipedia.org/wiki/Mali_princ</link>
+
+    </knjiga>
+        <knjiga>
+        <slika>slike/harry.jpg</slika>
+        <naslov>Harry Potter i kamen mudraca</naslov>
+        <autor>J.K.Rowling</autor>
+        <godina_izdavanja>1997</godina_izdavanja>
+        <opis>Harry Potter i Kamen mudraca je prva od sedam planiranih knjiga iz serije o Harry Potteru autorice J. K. Rowling. Knjiga je puštena u prodaju 30. juna 1997. u izdanju Bloomsburya, a kasnije je po njoj snimljen i istoimeni film.</opis>
+        <link>https://hr.wikipedia.org/wiki/Harry_Potter_i_Kamen_mudraca</link>
+
+    </knjiga>
+        <knjiga>
+        <slika>slike/lovac.jpg</slika>
+        <naslov>Lovac u žitu</naslov>
+        <autor>Jerome David Salinger</autor>
+        <godina_izdavanja>1951</godina_izdavanja>
+        <opis>Lovac u žitu (eng. The Catcher in the Rye) je roman američkog pisca J. D. Salingera iz 1951.U knjizi, 17-godišnji Holden Caulfield prepričava svoja iskustva iz prijašnje godine svoga života (kada je imao 16 godina). Holden je izbačen iz Pencey Preparatory School (privatna srednja škola koju pohađa), nakon što pada iz svih predmeta osim engleskog jezika. Holden odlazi u New York, planirajući provesti par dana u gradu prije nego što ode kući i obavijesti roditelje. Knjiga, pisana u prvom licu, prepričava ta tri dana provedena u New Yorku.
+
+Knjiga zapravo, od početka, opisuje 72 sata u Holdenovu životu, od čega on 48 sati provodi skitajući New Yorkom, nakon što je izbačen iz škole, u predbožićno vrijeme.</opis>
+<link>https://hr.wikipedia.org/wiki/Lovac_u_%C5%BEitu</link>
+
+    </knjiga>
+        <knjiga>
+        <slika>slike/san.jpg</slika>
+        <naslov>San u crvenom paviljonu</naslov>
+        <autor>Cao Xueqin</autor>
+        <godina_izdavanja>18.stoljeće</godina_izdavanja>
+        <opis>San u crvenom paviljonu (kin. "Hong Lou Meng") je kineski roman iz 18. stoljeća, jedna od najpoznatijih i najutjecajnih kineskih klasičnih knjiga. Pripada u skupinu četiri velikih klasičnih kineskih romana.
+
+Napisan je u sredini 18. stoljeća za vrijeme dinastije Qing. Autor je Cao Hsuečin, koji je roman objavio anonimno, ali se kasnije ustanovilo da je on autor. Počeo je pisati roman "Kamen", ali ga nije dovršio. Napisao je 80 poglavlja, a nakon njegove smrti, krajem 18. stoljeća, dodano je 40 novih poglavlja i promijenjeno ime romana u "San u crvenom paviljonu". Dijelom je autobiografski tekst. Postoji posebna znanost "crvenologija", koja proučava ovaj roman. U njemu je 30 glavnih i preko 400 sporednih likova, uglavnom ženskih. Bogata je psihološka karakterizacija likova. Detaljno prikazuje život i socijalnu strukturu tipičnog kineskoga plemstva 18. stoljeća. Crveni paviljon je naziv za mjesto stanovanja djevojaka iz bogatih plemićkih obitelji.</opis>
+<link>https://hr.wikipedia.org/wiki/San_u_crvenom_paviljonu</link>
+
+    </knjiga>
+            <knjiga>
+        <slika>slike/hobit.jpg</slika>
+        <naslov>Hobit</naslov>
+        <autor>J.R.R. Tolkien</autor>
+        <godina_izdavanja>1937</godina_izdavanja>
+        <opis>Hobit je prva knjiga J. R. R. Tolkiena zamišljena kao fantastični roman za djecu i odrasle. Prvi put je izdan 21. rujna 1937. g. Iako zamišljen kao roman za djecu, stekao je popularnost i među odraslima. Priču je nazvao "Tamo i opet natrag" te prati dogodovštine hobita Bilba Bagginsa i njegovih suputnika. Kako je priča stekla veliku popularnost, publika je tražila još te je izdana knjiga Gospodar prstenova.</opis>
+        <link>https://hr.wikipedia.org/wiki/Hobit_(roman)</link>
+
+    </knjiga>
+            <knjiga>
+        <slika>slike/lav.jpg</slika>
+        <naslov>Lav, vještica i ormar</naslov>
+        <autor>C.S. Lewis</autor>
+        <godina_izdavanja>1950</godina_izdavanja>
+        <opis>Lav, vještica i ormar (engl. The Lion, the Witch and the Wardrobe) prvi je i najpoznatiji roman iz serije "Narnijske kronike", sjevernoirskog pisca C. S. Lewisa, izdan 1950. godine.</opis>
+        <link>https://hr.wikipedia.org/wiki/Lav,_vje%C5%A1tica_i_ormar</link>
+
+    </knjiga>
+                <knjiga>
+        <slika>slike/da.jpg</slika>
+        <naslov>Da Vincijev kod</naslov>
+        <autor>Dan Brown</autor>
+        <godina_izdavanja>2003</godina_izdavanja>
+        <opis>Da Vincijev kod (eng: The Da Vinci Code) je kriminalistički triler američkog pisca Dana Browna objavljen 2003. godine.
+
+Roman je kombinacija zabavnog romana s raznim elementima teorija zavjere.
+
+Radnja prati uglednog harvardskog "simbologa" Roberta Langdona i Sophie Neveu dok istražuju ubojstvo u pariškom Louvreu, otkrivajući zakulisnu borbu između Sionskog priorija i Opusa Dei oko moguće činjenice da je Isus imao dijete s Marijom Magdalenom.
+
+Naslov romana odnosi se na, između ostalog, činjenicu da je žrtva umorstva pronađena u Denonovom krilu muzeja Louvre, gol i položen kao Da Vincijev Vitruvijev čovjek sa šifriranom porukom napisanom uz njegovo truplo i pentagramom nacrtanim na njegovom trubuhu njegovom vlastitom krvlju.</opis>
+<link>https://hr.wikipedia.org/wiki/Da_Vincijev_kod</link>
+
+    </knjiga>
+</knjige>
